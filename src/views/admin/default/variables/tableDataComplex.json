@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Oxygenator",
+    "status": "Approved",
+    "date": "24.Jan.2021",
+    "progress": 100
+  },
+  {
+    "name": "X-Ray machine",
+    "status": "Disable",
+    "date": "30.Dec.2021",
+    "progress": 0
+  },
+  {
+    "name": "PPE",
+    "status": "Error",
+    "date": "20.May.2021",
+    "progress": 45
+  },
+  {
+    "name": "SIS",
+    "status": "Approved",
+    "date": "12.Jul.2021",
+    "progress": 100
+  }
+]

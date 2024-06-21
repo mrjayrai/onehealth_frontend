@@ -1,0 +1,27 @@
+[
+  {
+    "name": ["Beds", false],
+    "quantity": 150,
+    "date": "Apr 26, 2022"
+  },
+  {
+    "name": ["PPE", true],
+    "quantity": 1500,
+    "date": "Jul 20, 2022"
+  },
+  {
+    "name": ["Vaccines", true],
+    "quantity": 1000,
+    "date": "Sep 30, 2022"
+  },
+  {
+    "name": ["SIS", true],
+    "quantity": 2000,
+    "date": "Oct 24, 2022"
+  },
+  {
+    "name": ["Diagnostic equipment", false],
+    "quantity": 50,
+    "date": "Nov 29, 2022"
+  }
+]
